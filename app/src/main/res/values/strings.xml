@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">COTS</string>
+    <string name="tambah_data">Tambah data</string>
+    <string name="masukkan_nama_hewan">Masukkan nama hewan</string>
+    <string name="mau_diapakan_hewan_ini">Mau diapakan hewan ini?</string>
+    <string name="lihat_detail">Lihat detail</string>
+    <string name="hapus">hapus</string>
+    <string name="ubah">Ubah</string>
+    <string name="ubah_data">Ubah data</string>
+    <string name="simpan">Simpan</string>
+    <string name="batal">Batal</string>
+    <string name="anda_telah_melihat_">Anda telah melihat </string>
+    <string name="sumber_">Sumber : </string>
+    <string name="lihat_di_browser">Lihat di browser</string>
+    <string name="mengunduh_data">Mengunduh data</string>
+    <string name="can_not_open_browser">Can not open browser</string>
+    <string name="nama_hewan">Nama hewan</string>
+    <string name="nama_hewan_tidak_boleh_kosong">Gagal menambahkan. Nama hewan tidak boleh kosong.</string>
+    <string name="tidak_ada_foto">Foto tidak tersedia</string>
+    <string name="_telah_dipahus">telah dihapus</string>
+    <string name="undo">Undo</string>
+    <string name="tidak_ada_undo_">Tidak ada UNDO bagi</string>
+</resources>
